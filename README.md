@@ -1,1 +1,1 @@
-# php-pos-accounts
+# PHP POS With Accounting
